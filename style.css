@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: lightblue;
+border-radius:10px ;
+padding: 10px;
+}
+h1 {
+border: 1px solid rgb(0, 0, 0);
+text-align: center;
+color: orange;
+border-radius: 10px;
+}
+footer {
+border:3px solid peru;
+background-color: peru;
+}
+footer p{
+background-color: white;
+}
+nav{
+background-color: rgb(74, 180, 74);
+border-radius: 10px;
+padding: 15px;
+margin: 10px;
+}
+nav a{
+    margin: 10px;
+    color: white;
+}
+.prod {
+background-color: rgb(159, 216, 101);
+padding: 10px;
+}
